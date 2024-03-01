@@ -12,8 +12,6 @@ sites:
   - name: TheGoldAntidote
     url: https://www.thegoldantidote.com/
     icon: https://www.thegoldantidote.com/wp-content/uploads/2020/11/logo_def-400x418.png
-  - name: Linkedin
-    url: https://www.linkedin.com/in/david-m-l/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
