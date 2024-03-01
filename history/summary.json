@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 875,
-    "timeWeek": 875,
-    "timeMonth": 875,
-    "timeYear": 875,
+    "time": 547,
+    "timeDay": 547,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1085,
-    "timeDay": 1085,
-    "timeWeek": 1085,
-    "timeMonth": 1085,
-    "timeYear": 1085,
+    "time": 954,
+    "timeDay": 954,
+    "timeWeek": 954,
+    "timeMonth": 954,
+    "timeYear": 954,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2854,
-    "timeDay": 2854,
-    "timeWeek": 2854,
-    "timeMonth": 2854,
-    "timeYear": 2854,
+    "time": 2822,
+    "timeDay": 2822,
+    "timeWeek": 2822,
+    "timeMonth": 2822,
+    "timeYear": 2822,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Linkedin",
-    "url": "https://www.linkedin.com/in/david-m-l/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
-    "slug": "linkedin",
-    "status": "down",
-    "uptime": "6.26%",
-    "uptimeDay": "6.26%",
-    "uptimeWeek": "6.26%",
-    "uptimeMonth": "6.26%",
-    "uptimeYear": "6.26%",
-    "time": 51,
-    "timeDay": 51,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
-    "dailyMinutesDown": {
-      "2024-03-01": 0
-    }
   }
 ]
