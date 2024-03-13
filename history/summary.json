@@ -4,19 +4,19 @@
     "url": "https://www.butlerscientifics.com/",
     "icon": "https://static.wixstatic.com/media/625cd8_d2782d0ee560e4903dd5831ccfa65d8f.png/v1/fill/w_215,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/625cd8_d2782d0ee560e4903dd5831ccfa65d8f.png",
     "slug": "butler-scientifics",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 487,
-    "timeDay": 131,
-    "timeWeek": 153,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 756,
+    "timeDay": 1365,
+    "timeWeek": 644,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2024-03-13": 31
+      "2024-03-13": 50
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://autodiscovery.butlerscientifics.com/images/login.png",
     "slug": "my-ad",
     "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "89.89%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "uptime": "99.03%",
+    "uptimeDay": "88.52%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 1200,
     "timeDay": 1095,
     "timeWeek": 878,
     "timeMonth": 1200,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2024-03-13": 146
+      "2024-03-13": 165
     }
   },
   {
