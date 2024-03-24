@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 1046,
-    "timeDay": 226,
-    "timeWeek": 158,
-    "timeMonth": 1046,
-    "timeYear": 1046,
+    "time": 1017,
+    "timeDay": 232,
+    "timeWeek": 173,
+    "timeMonth": 1017,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2024-03-13": 50
     }
@@ -25,16 +25,16 @@
     "icon": "https://autodiscovery.butlerscientifics.com/images/login.png",
     "slug": "my-ad",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
-    "time": 1059,
-    "timeDay": 784,
-    "timeWeek": 801,
-    "timeMonth": 1059,
-    "timeYear": 1059,
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 1050,
+    "timeDay": 832,
+    "timeWeek": 816,
+    "timeMonth": 1050,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2024-03-13": 232
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2602,
-    "timeDay": 2545,
-    "timeWeek": 2418,
-    "timeMonth": 2602,
-    "timeYear": 2602,
+    "time": 2606,
+    "timeDay": 2701,
+    "timeWeek": 2394,
+    "timeMonth": 2606,
+    "timeYear": 2606,
     "dailyMinutesDown": {}
   }
 ]
