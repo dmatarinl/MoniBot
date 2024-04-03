@@ -24,18 +24,19 @@
     "url": "https://autodiscovery.butlerscientifics.com/#/",
     "icon": "https://autodiscovery.butlerscientifics.com/images/login.png",
     "slug": "my-ad",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 1521,
     "timeDay": 783,
     "timeWeek": 789,
     "timeMonth": 1586,
     "timeYear": 1521,
     "dailyMinutesDown": {
+      "2024-04-03": 0,
       "2024-03-13": 232
     }
   },
