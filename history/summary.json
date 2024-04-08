@@ -5,16 +5,16 @@
     "icon": "https://static.wixstatic.com/media/625cd8_d2782d0ee560e4903dd5831ccfa65d8f.png/v1/fill/w_215,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/625cd8_d2782d0ee560e4903dd5831ccfa65d8f.png",
     "slug": "butler-scientifics",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
-    "time": 768,
+    "uptimeYear": "99.91%",
+    "time": 754,
     "timeDay": 173,
-    "timeWeek": 208,
-    "timeMonth": 758,
-    "timeYear": 768,
+    "timeWeek": 215,
+    "timeMonth": 757,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2024-03-13": 50
     }
@@ -25,16 +25,16 @@
     "icon": "https://autodiscovery.butlerscientifics.com/images/login.png",
     "slug": "my-ad",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "99.55%",
-    "time": 1555,
-    "timeDay": 3309,
-    "timeWeek": 1448,
-    "timeMonth": 1580,
-    "timeYear": 1555,
+    "uptimeYear": "99.57%",
+    "time": 1538,
+    "timeDay": 804,
+    "timeWeek": 1453,
+    "timeMonth": 1581,
+    "timeYear": 1538,
     "dailyMinutesDown": {
       "2024-03-13": 232
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2642,
-    "timeDay": 2491,
-    "timeWeek": 2727,
-    "timeMonth": 2663,
-    "timeYear": 2642,
+    "time": 2644,
+    "timeDay": 2722,
+    "timeWeek": 2745,
+    "timeMonth": 2668,
+    "timeYear": 2644,
     "dailyMinutesDown": {}
   }
 ]
