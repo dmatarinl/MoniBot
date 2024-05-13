@@ -45,7 +45,7 @@
     "url": "https://www.thegoldantidote.com/",
     "icon": "https://www.thegoldantidote.com/wp-content/uploads/2020/11/logo_def-400x418.png",
     "slug": "the-gold-antidote",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +56,8 @@
     "timeWeek": 2680,
     "timeMonth": 2644,
     "timeYear": 2629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   }
 ]
